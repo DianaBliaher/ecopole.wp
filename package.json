@@ -1,0 +1,10 @@
+{
+    "name": "modulesapp",
+    "version": "1.0.0",
+    "dependencies": {
+        "jquery": "^3.5.1"
+    },
+    "devDependencies": {
+        "less-loader": "^6.2.0"
+    }
+}
